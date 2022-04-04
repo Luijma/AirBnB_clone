@@ -47,41 +47,41 @@ button:hover
 }
 .popover
 {
-    background-color: #FAFAFA;
-    border: 1px solid #DDDDDD;
-    border-radius: 4px;
-    position: absolute;
-    width: 100%;
-    display: none;
-    padding-bottom: 30px;
-    margin: -5px;
+	background-color: #FAFAFA;
+	border: 1px solid #DDDDDD;
+	border-radius: 4px;
+	position: absolute;
+	width: 100%;
+	display: none;
+	padding-bottom: 30px;
+	margin: -5px;
 }
 
 .popover h2
 {
-    margin-left: -20px;
-    font-size: 20px;
-    margin-bottom: 0px;
+	margin-left: -20px;
+	font-size: 20px;
+	margin-bottom: 0px;
 }
 
 .popover li
 {
-    list-style: none;
-    margin-bottom: 5px;
+	list-style: none;
+	margin-bottom: 5px;
 }
 
 .locations:hover .popover
 {
-    display: block;
-    padding-left: 50px;
-    margin-left: -50px;
-    padding-top: 25px;
+	display: block;
+	padding-left: 50px;
+	margin-left: -50px;
+	padding-top: 25px;
 }
 
 .amenities:hover .popover
 {
-    display: block;
-    padding-left: 50px;
-    margin-left: -55px;
-    padding-top: 40px;
+	display: block;
+	padding-left: 50px;
+	margin-left: -55px;
+	padding-top: 40px;
 }
